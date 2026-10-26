@@ -2,7 +2,7 @@
 title: 索尼 MDR-SA5000 声音测评：二十年前的"最快动圈"
 published: 2026-10-26
 description: 高频迅猛、瞬态极快，中频偏薄低频克制，是古典与电子乐的"手术刀"，不适合流行人声党。
-image: ./images/sa5000-hero.jpg
+image: ./headphone_images/sa5000-hero.jpg
 tags: [耳机, 测评, 索尼, SA5000, HiFi]
 category: 耳机测评
 draft: false
